@@ -1,12 +1,11 @@
 # GoIT Fullstack Developer – Learning Journey
 
 This repository documents my learning journey during the **FULLSTACK Developer course at GoIT**.
-It contains projects and assignments created while learning **JavaScript, React, and Node.js**,
+It contains assignments created while learning **JavaScript, React, and Node.js**,
 with a strong focus on developing skills required for a **Junior Fullstack Developer** role.
 
-The repository is intended as a structured overview of my learning process,
-technical scope, and practical experience gained throughout the course.
-
+This repository is intended as a structured overview of my exercises and assignments completed during the course
+to practice specific topics and technologies such as HTML, CSS, JavaScript, React, and Node.js.
 ---
 
 ## 🎓 Course Information
@@ -70,6 +69,42 @@ Status: **Completed**
 - Docker basics
 - WebSockets
 - deployment (Heroku)
+
+---
+
+---
+
+## 🚀 Completed Course Projects
+
+In addition to exercises and assignments, I completed the following standalone projects
+as part of the GoIT Fullstack Developer course.
+Each project is maintained in a separate repository and represents a complete application.
+
+
+### HTML & CSS Project
+- **Description:** Static website created during the course to practice layout and styling fundamentals  
+- **Focus:** semantic HTML, CSS layout techniques, Flexbox, forms, responsive design  
+- **Repository:** [View repository](https://github.com/Jacek-85/Ice_Muuu)
+- **Live demo:** [Live demo](https://jacek-85.github.io/Ice_Muuu/)
+
+---
+
+### JavaScript Project
+- **Description:** JavaScript-based application created during the course  
+- **Focus:** DOM manipulation, events, asynchronous JavaScript, API integration 
+- **Type:** Team project (role: frontend developer) 
+- **Repository:** [View repository](https://github.com/jaciubas/projekt-goit-grupa7)
+- **Live demo:** [Live demo](https://jaciubas.github.io/projekt-goit-grupa7/)
+
+---
+
+### Fullstack Project (React + Node.js)
+- **Description:** Fullstack application developed during the course, combining a React frontend with a Node.js backend  
+- **Focus:** component-based architecture, hooks, routing, state management, API communication, Express, MongoDB, authentication, REST API architecture  
+- **Type:** Solo project (role: fullstack developer) 
+- **Repository:** [View repository]( https://github.com/hannakaczynska/wallet-app-fullstack)
+- **Live demo:** [Live demo](https://wallet-app-project.netlify.app/)
+
 
 ---
 
